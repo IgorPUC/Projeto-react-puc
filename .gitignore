@@ -22,4 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Chave da API (cada aluno cria a sua)
 .env

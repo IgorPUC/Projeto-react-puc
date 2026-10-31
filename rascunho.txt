@@ -1,9 +1,0 @@
-filmes = [
-  { id: 1, titulo: 'Interestelar', ano: 2014, imagem: 'interestelar.jpg' },
-  { id: 2, titulo: 'Carros', ano: 2006, imagem: 'carros.jpg' },
-  { id: 3, titulo: 'Matrix', ano: 1999, imagem: 'matrix.jpg' },
-  { id: 4, titulo: 'Toy Story', ano: 1995, imagem: 'toystory.jpg' },
-  { id: 5, titulo: 'Avatar', ano: 2022, imagem: 'avatar.jpg' },
-  { id: 6, titulo: 'Homem-Aranha', ano: 2026, imagem: 'miranha.jpg' },
-  { id: 7, titulo: 'Shrek', ano: 2001, imagem: 'shrek.jpg' },
-]
